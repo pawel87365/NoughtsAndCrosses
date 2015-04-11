@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>view.qml</file>
+        <file alias="circle.png">Images/circle1.png</file>
+        <file alias="cross1.png">Images/cross1.png</file>
+    </qresource>
+</RCC>
